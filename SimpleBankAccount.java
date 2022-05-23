@@ -74,7 +74,7 @@ public double bankwithdraw() {
 
 
 }
-class Hellow{
+class SimpleBankAccount{
 	public static void main(String args[]) {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter your Name and userid to access the account");
